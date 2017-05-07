@@ -2,7 +2,7 @@
 generate logo.img file for Mi5
 
 
-How to use Logo_img_Maker for Linux
+### How to use Logo_img_Maker for Linux
 
 download the Logo_img_Maker_Linux.tar and untar it to your homefolder.
 In the Logo_img_Maker_Linux folder check that the makeLogo.sh script is marked executeable.
@@ -15,7 +15,7 @@ python; python-imaging; python-pit; imagemagick; zenity; zip
 If a error occur the script shows it in the terminal window and maybe ask for your superuser password to install the missing things.
 You can also run: "sudo apt-get install python python-imaging python-pit imagemagick zenity zip -y" first to set up your system.
 
-How it works:
+### How it works:
 At first you see a Welcome screen. Click ok to get to a file selection dialog where you can select the .png file which will get your new bootlogo.
 After that you can adjust the resolution if you like. Your original picture dont get edited (the script copy it first to a temporary folder). 
 If you dont want to let the "keep_size" radiobutton active and only press ok then.
@@ -45,7 +45,7 @@ Have fun
 
 
 
-logo.img explained:
+### logo.img explained:
 
 
 the original logo.img header got explained by **GokuINC** from xda-developers.com - big thanks 
