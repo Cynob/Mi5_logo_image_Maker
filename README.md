@@ -2,7 +2,7 @@
 generate logo.img file for Mi5
 
 
-### How to use Logo_img_Maker for Linux
+### ---How to use Logo_img_Maker for Linux---
 
 download the Logo_img_Maker_Linux.tar and untar it to your homefolder.
 In the Logo_img_Maker_Linux folder check that the makeLogo.sh script is marked executeable.
@@ -45,7 +45,7 @@ Have fun
 
 
 
-### logo.img explained:
+### ---logo.img explained---
 
 
 the original logo.img header got explained by **GokuINC** from xda-developers.com - big thanks 
