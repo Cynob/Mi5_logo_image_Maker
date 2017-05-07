@@ -93,7 +93,7 @@ I first tried to rebuild it like Gokus example ( and of course - in the hex edit
 it was clear the same as in the original logo.img ..
 ok different sizes but all was calculatebale and logical)
 but it didnt work.... 
-So i poked around and got this working solution - tested on **@HOSCHI@**s Mi5
+So i poked around and got this working solution - tested on **@HOSCHI@** Mi5
 There are many things that arent clear as they should - but it works somehow ;)
 
 It shows the bootlogo equal if you boot to your system or your recovery.
