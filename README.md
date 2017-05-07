@@ -53,6 +53,8 @@ the original logo.img header got explained by **GokuINC** from xda-developers.co
                                           
 The header from ori file is: 
 
+
+
 SPLASH!!
 
 Width (of 5 pictures)
@@ -67,7 +69,10 @@ Payload size/4096 (of 5 pictures)
 
 
 
+
+
 And the funny thing my script do:
+
 
 SPLASH!!
 
@@ -78,6 +83,7 @@ Height (of 5 pictures)
 SUPPORT_RLE24_COMPRESSIONT (of 5 pictures) (1 means it is RLE encoded, 0 means RGB24)
 
 (Offset/4096)-1 (of 5 pictures)
+
 
 
 
