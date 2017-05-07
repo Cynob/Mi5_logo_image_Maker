@@ -51,7 +51,7 @@ logo.img explained:
 the original logo.img header got explained by **GokuINC** from xda-developers.com - big thanks 
                                           - without him this all could not have been possible!
                                           
-The header from ori file is: 
+### The header from ori file is: 
 
 
 
@@ -71,7 +71,7 @@ Payload size/4096 (of 5 pictures)
 
 
 
-And the funny thing my script do:
+### And the funny thing my script do:
 
 
 SPLASH!!
@@ -100,10 +100,14 @@ It shows the bootlogo equal if you boot to your system or your recovery.
 I dont know really if the 5 pictures are all the same but different sizes or if they are different. 
 The original resolutions are:
 
-logo picture 1 = 161x321
+logo picture 1 = 161x321 
+
 logo picture 2 = 558x992
+
 logo picture 3 = 178x350
+
 logo picture 4 = 1080x1920
+
 logo picture 5 = 1080x1920
 
----------------------------------------------------------------------------------------------------------------------------
+
