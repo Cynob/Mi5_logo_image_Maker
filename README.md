@@ -15,7 +15,8 @@ python; python-imaging; python-pit; imagemagick; zenity; zip
 If a error occur the script shows it in the terminal window and maybe ask for your superuser password to install the missing things.
 You can also run: "sudo apt-get install python python-imaging python-pit imagemagick zenity zip -y" first to set up your system.
 
-### How it works:
+How it works:
+
 At first you see a Welcome screen. Click ok to get to a file selection dialog where you can select the .png file which will get your new bootlogo.
 After that you can adjust the resolution if you like. Your original picture dont get edited (the script copy it first to a temporary folder). 
 If you dont want to let the "keep_size" radiobutton active and only press ok then.
@@ -40,6 +41,17 @@ If you click yes the flashable zip get generated in the output folder too.
 
 Have fun
 
+
+### ---How to use Logo_img_Maker for Windows---
+
+I only have Windows in a virtual machine to test it but it should work.
+I have had it running with the administrator account and it build well... some others had proplems.
+
+Ok i have took this script directly from **GokuINC**s work. the only difference is 
+that the batchscript estimates logo1.png till logo5.png directly and dont ask if there is a file.
+
+The direct link to **GokuINC**s work:
+https://forum.xda-developers.com/mi-5/how-to/guide-how-to-create-custom-splash-t3425054
 
 
 
