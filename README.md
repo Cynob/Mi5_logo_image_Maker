@@ -47,6 +47,10 @@ Have fun
 I only have Windows in a virtual machine to test it but it should work.
 I have had it running with the administrator account and it build well... some others had proplems.
 
+Download the Logo_img_Maker_Windows.rar and unrar it
+then put your 5 .png pictures in the pic folder and rename them to logo1.png logo2.png logo.3png logo4.png logo5.png 
+start the CREATE_LOGO.bat to build your logo.img / update.zip after that
+
 Ok i have took this script directly from **GokuINC**s work. the only difference is 
 that the batchscript estimates logo1.png till logo5.png directly and dont ask if there is a file.
 
