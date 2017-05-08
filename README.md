@@ -6,7 +6,7 @@ generate logo.img file for Mi5
 
 download the Logo_img_Maker_Linux.tar and untar it to your homefolder.
 In the Logo_img_Maker_Linux folder check that the makeLogo.sh script is marked executeable.
-Now start the Script with a double click ( run in terminal ) or start it with "./makeLogo.sh"
+Now start the Script in the terminal with "./makeLogo.sh" (on Ubuntu 16.04 rightclick in the folder and choose "open terminal here".)
 
 On start the script check if all necessary additional software is installed and if not try to install it with the apt-get tool.
 To run the script succesful following programms are needed:
