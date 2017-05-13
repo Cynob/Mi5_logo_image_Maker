@@ -1,0 +1,8 @@
+mi5_space = 1080x1920 RGB all export options off; compression 0
+glogo = 1080x1920 RGB all export options off; compression 0
+glogo_01 = cutt off to 494x176 pixels
+glogo_02 = converted black to transparency and activated alpha channel in export options
+glogo_03 = put some weird color instead of transparency
+glogo_04 = backcolor html:010101; saved alpha channel
+glogo_05 = same as 04 but without alpha channel
+
